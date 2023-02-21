@@ -1,4 +1,4 @@
-# Name:
+# Name: 
 
 class Card:
     """class representing a simple Neapolitan card. Holds a 
